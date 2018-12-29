@@ -1,0 +1,43 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-logo {
+  width: 120px!important;
+}
+
+header .navbar {
+  height: 70px!important;
+}
+
+header a {
+  color: white;
+  transition: 0.3s;
+  &:hover {
+    color: black;
+  }
+}
+body {
+  background-color: #1e252b;
+}
+
+.row {
+  margin-right: 0!important;
+  margin-left: 0!important;
+}
+

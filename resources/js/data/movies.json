@@ -1,0 +1,25 @@
+[{
+   "id" : 1,
+  "name": "Зеленый слоник",
+  "year": "1999",
+  "director": "Светлана Баскова",
+  "time": "86",
+  "img": "https://st.kp.yandex.net/images/film_iphone/iphone360_373314.jpg"
+},
+{
+  "id" : 2,
+  "name": "Зеленый слоник1",
+  "year": "1999",
+  "director": "Светлана Баскова",
+  "time": "86",
+  "img": "https://st.kp.yandex.net/images/film_iphone/iphone360_373314.jpg"
+},
+{
+  "id" : 3,
+  "name": "Зеленый слоник2",
+  "year": "1999",
+  "director": "Светлана Баскова",
+  "time": "86",
+  "img": "https://st.kp.yandex.net/images/film_iphone/iphone360_373314.jpg"
+}
+]
